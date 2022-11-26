@@ -1,0 +1,17 @@
+﻿  T04-main.cpp
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\T04-main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(2356,64): warning C4244: 'argument': conversion from 'cturtle::detail::time_t' to 'unsigned int', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(3300,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(3344,98): warning C4244: '*=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned char
+          ]
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4489,1): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned long', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4881,66): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4881,47): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4885,68): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'unsigned long', possible loss of data
+C:\Users\dnten\source\repos\t04-c-turtles-runthecode\CTurtle.hpp(4885,49): warning C4244: 'initializing': conversion from 'cturtle::detail::time_t' to 'const unsigned long', possible loss of data
+  T04-C-Turtle.vcxproj -> C:\Users\dnten\Source\Repos\t04-c-turtles-runthecode\x64\Debug\T04-C-Turtle.exe
